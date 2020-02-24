@@ -3,6 +3,22 @@
 
 Good luck, guys!
 
+
+
+http://ssr.luhui.net
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b44ea0f-05db-449b-b396-ae9ff0a29ac4/deploy-status)](https://app.netlify.com/sites/luhuissr/deploys)
+
+http://luhuissr.netlify.com
+
+
+
+
+
+
+
+
+
 # SSR节点列表生成器
 > 适配ios版shadowrocket，PC或Mac版小飞机,
 
