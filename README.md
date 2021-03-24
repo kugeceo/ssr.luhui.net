@@ -7,7 +7,7 @@ Good luck, guys!
 
 http://ssr.luhui.net
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1b44ea0f-05db-449b-b396-ae9ff0a29ac4/deploy-status)](https://app.netlify.com/sites/luhuissr/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/282e75c6-b599-4542-9263-462b77b7ea4a/deploy-status)](https://app.netlify.com/sites/luhuissr/deploys)
 
 http://luhuissr.netlify.com
 
